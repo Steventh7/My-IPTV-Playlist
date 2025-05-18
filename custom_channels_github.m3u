@@ -1,0 +1,18 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVN24BiS.pl" tvg-name="TVN24 BiS" group-title="Poland",TVN24 BiS
+https://stream.tvn24bis.pl/live/TVN24BiS/index.m3u8
+
+#EXTINF:-1 tvg-id="TVP2.pl" tvg-name="TVP 2 HD" group-title="Poland",TVP 2 HD
+http://185.105.4.51:1935/live/tvp2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVS.pl" tvg-name="TVS" group-title="Poland",TVS
+http://93.157.62.180:8081/tvs/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MTVLebanon.lb" tvg-name="MTV Lebanon" group-title="Lebanon",MTV Lebanon
+https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LBCI.lb" tvg-name="LBC International" group-title="Lebanon",LBC International
+https://lbci-lb-iptv.akamaized.net/hls/live/2036924/stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AlJadeed.lb" tvg-name="Aljadeed" group-title="Lebanon",Aljadeed
+https://streaming.aljadeed.tv/aljadeed/playlist.m3u8
